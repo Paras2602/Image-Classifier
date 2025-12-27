@@ -1,0 +1,5 @@
+-r requirements.txt
+tqdm==4.67.1
+scikit-learn==1.7.2
+matplotlib==3.10.8
+torchaudio==2.9.1
